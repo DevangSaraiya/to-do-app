@@ -19,4 +19,4 @@ This assumes you have Laravel Herd setup.
 Development
 -----------
 
-Start the dev server with `npm run dev` and open `http://tadieu.test`.
+Start the dev server with `php artisan serve` and open `http://127.0.0.1:8000/`.
